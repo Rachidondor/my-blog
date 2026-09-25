@@ -1,0 +1,8 @@
+baseURL = 'https://Rachidondor.github.io/my-blog/'
+relativeURLs = false
+locale = 'ar'
+title = 'مدونتي'
+Paginate = 9
+
+[permalinks]
+posts = "/topics/:title/"
